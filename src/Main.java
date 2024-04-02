@@ -17,5 +17,9 @@ public class Main {
 
         var resultado2 = 3D / b;
         System.out.println("resultado division a / b = " + resultado2);
+
+        resultado = a % b;
+            System.out.println("resultado residuo a % b = " + resultado);
+
      }
 }
